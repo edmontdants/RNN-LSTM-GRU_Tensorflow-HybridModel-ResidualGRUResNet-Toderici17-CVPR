@@ -1,4 +1,4 @@
-#### [Full Resolution Image Compression with Recurrent Neural Networks]
+#### Full Resolution Image Compression with Recurrent Neural Networks
 
 ### Image Compression with Neural Networks
 ## RNN LSTM/GRU - Tensorflow Hybrid Model Residual-GRU & ResNet - Toderici2017-CVPR
