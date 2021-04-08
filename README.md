@@ -62,7 +62,7 @@ pixel) bpp and every increment results in an additional 1/8 bpp.
 The output_codes file contains the numpy shape and a flattened, bit-packed
 array of the codes. These can be inspected in python by using numpy.load().
 
-[Entropy Coder](entropy_coder/): Lossless compression of the binary representation.
+[Entropy Coder](entropy encoder model/): Lossless compression of the binary representation.
 
 ## Decoding
 After generating codes for an image, the lossy reconstructions for that image
