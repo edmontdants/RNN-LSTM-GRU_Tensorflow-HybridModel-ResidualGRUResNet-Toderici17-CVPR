@@ -95,4 +95,4 @@ pixel boundaries.
 
 
 ## Contact Info
-Model repository maintained by Nick Johnston ([nickj-google](https://github.com/nmjohn)).
+Model repository maintained by Nick Johnston ([NickJohnston-google](https://github.com/nmjohn)).
