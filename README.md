@@ -1,11 +1,8 @@
-## [Full Resolution Image Compression with Recurrent Neural Networks](https://arxiv.org/abs/1608.05148)
+#### [Full Resolution Image Compression with Recurrent Neural Networks]
 
-Image Compression with Neural Networks
-RNN LSTM/GRU - Tensorflow Hybrid Model Residual-GRU & ResNet - Toderici2017-CVPR
-High Image Compression ratio end-to-end learned based for paper Full-Resolution Lossy Image Compression CVPR17
-
-
-# Image Compression with Neural Networks
+### Image Compression with Neural Networks
+## RNN LSTM/GRU - Tensorflow Hybrid Model Residual-GRU & ResNet - Toderici2017-CVPR
+# High Image Compression ratio end-to-end learned based for paper Full-Resolution Lossy Image Compression CVPR17
 
 This is a [TensorFlow](http://www.tensorflow.org/) model for compressing and
 decompressing images using an already trained  Residual GRU model as descibed
