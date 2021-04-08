@@ -86,11 +86,10 @@ To generate these metrics on your images you can run:
 ## FAQ
 
 #### How do I train my own compression network?
-We currently don't provide the code to build and train a compression
-graph from scratch.
+currently don't provide the code to build and train a compression graph from scratch.
 
 #### I get an InvalidArgumentError: Incompatible shapes.
-This is usually due to the fact that our network only supports images that are
+This is usually due to the fact that the network only supports images that are
 both height and width divisible by 32 pixel. Try padding your images to 32
 pixel boundaries.
 
