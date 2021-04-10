@@ -75,7 +75,7 @@ The output_directory will contain images decoded at each quality level.
 
 
 ## Comparing Similarity
-One of our primary metrics for comparing how similar two images are
+One of the primary metrics for comparing how similar two images are
 is MS-SSIM.
 
 To generate these metrics on your images you can run:
