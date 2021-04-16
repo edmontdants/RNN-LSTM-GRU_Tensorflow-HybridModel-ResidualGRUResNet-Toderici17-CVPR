@@ -5,7 +5,7 @@
 # end-to-end learned based High Image Compression ratio implementation for paper Full-Resolution Lossy Image Compression CVPR17
 
 <div align="center">
-  <img width='600px' src="http://i.imgur.com/XjCXXap.png"><br><br>
+  <img width='600px' src="https://neurohive.io/wp-content/uploads/2020/11/rsz_compress.png"><br><br>
 </div>
 
 This is a [TensorFlow](http://www.tensorflow.org/) model for compressing and
