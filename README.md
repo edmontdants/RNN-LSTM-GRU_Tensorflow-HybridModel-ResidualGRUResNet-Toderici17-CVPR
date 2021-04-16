@@ -7,6 +7,7 @@
 <div align="center">
   <img width='600px' src="https://github.com/edmontdants/RNN-LSTM-GRU_Tensorflow-Hybrid-Model-Residual-GRU-ResNet-Toderici2017-CVPR/blob/main/example%20-%20compress.png"><br>
   Guess which one is the original and which is the compressed!!!
+  <br>
 </div>
 
 This is a [TensorFlow](http://www.tensorflow.org/) model for compressing and
