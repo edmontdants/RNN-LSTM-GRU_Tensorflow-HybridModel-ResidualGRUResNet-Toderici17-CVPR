@@ -5,7 +5,7 @@
 # end-to-end learned based High Image Compression ratio implementation for paper Full-Resolution Lossy Image Compression CVPR17
 
 <div align="center">
-  <img width='600px' src="https://github.com/edmontdants/RNN-LSTM-GRU_Tensorflow-Hybrid-Model-Residual-GRU-ResNet-Toderici2017-CVPR/blob/main/example%20-%20compress.png"><br>
+  <img width='600px' src="https://github.com/edmontdants/RNN-LSTM-GRU_Tensorflow-Hybrid-Model-Residual-GRU-ResNet-Toderici2017-CVPR/blob/main/example%20compress.png"><br>
   iteration 15 without entropy coding... guess which one is the original and which is the compressed!!!
   <br><br>
 </div>
