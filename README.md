@@ -17,6 +17,7 @@ Entropy Coding portions of our paper.
 
 ## Prerequisites
 The only software requirements for running the encoder and decoder is having Tensorflow installed.
+
 You will also need to [download](https://drive.google.com/file/d/1nh4cxxds-BdsU0Tx3qP_cA1IuY2dDD5W) this compression based model
 
 If you want to generate the perceptual similarity under MS-SSIM, you will also
