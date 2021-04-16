@@ -1,4 +1,3 @@
-![Uploading example - compress.png…]()
 #### Full Resolution Image Compression with Recurrent Neural Networks
 
 ### Image Compression with Neural Networks
