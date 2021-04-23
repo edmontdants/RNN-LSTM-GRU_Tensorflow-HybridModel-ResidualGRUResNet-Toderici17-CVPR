@@ -1,2 +1,2 @@
 Model Final Results<br>
-Reconstructed(decoded) Representatinos in .png & .jpg Formats
+Reconstructed "Decoded" Representatinos in .png & .jpg Formats
