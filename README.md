@@ -13,7 +13,7 @@
 This is a [TensorFlow](http://www.tensorflow.org/) model for compressing and
 decompressing images using an already trained  Residual GRU model as descibed
 in [Full Resolution Image Compression with Recurrent Neural Networks]
-(https://arxiv.org/abs/1608.05148). Please consult the paper for more details
+(https://arxiv.org/pdf/1608.05148). Please consult the paper for more details
 on the architecture and compression results.
 
 This code will allow you to perform the lossy compression on an model
