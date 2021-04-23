@@ -35,10 +35,7 @@ time of release.
 
 To encode an image, simply run the following command:
 
-`python encoder.py --input_image=/your/image/here.png
---output_codes=output_codes.npz --iteration=15
---model=/path/to/model/residual_gru.pb
-`
+`python encoder.py --input_image=/your/image/here.png --output_codes=output_codes.npz --iteration=15 --model=/path/to/model/residual_gru.pb`
 
 The iteration parameter specifies the lossy-quality to target for compression.
 The quality can be [0-15], where 0 corresponds to a target of 1/8 (bits per
