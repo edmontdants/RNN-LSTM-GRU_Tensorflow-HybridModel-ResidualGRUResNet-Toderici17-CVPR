@@ -19,6 +19,10 @@ This code will allow you to perform the lossy compression on an model
 already trained on compression. This code doesn't not currently contain the
 Entropy Coding portions of our paper.
 
+##Hardware Requirements:
+
+GPU is not necessary but preferable
+At least 3Gb of RAM
 
 ## Prerequisites
 The only software requirements for running the encoder and decoder is having Tensorflow installed.
