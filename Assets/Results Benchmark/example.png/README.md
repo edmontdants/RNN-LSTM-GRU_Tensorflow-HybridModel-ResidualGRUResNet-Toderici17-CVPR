@@ -1,5 +1,5 @@
 
-Aggregate rate-distortion data for "Toderici 2017 (CVPR)" on the given supported image example.png
+Aggregate rate-distortion data for "Toderici 2017 (CVPR)" on the associated supported image example.png
 
 The first column contains bits per pixel (bpp) values.<br>
 The second column contains MS-SSIM/sRGB/R'G'B' values.
