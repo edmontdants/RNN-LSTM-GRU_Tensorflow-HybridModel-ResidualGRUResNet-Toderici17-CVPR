@@ -1,3 +1,5 @@
+*/*** important *** if you like this or interested in please star or fork for fast deploying this work is deprecated and archived by tensorflow 3 years ago because there is much better work like HiFIC and alot of a good studies from google researchers and  [CLIC](http://compression.cc) "Workshop and Challenge on Learned Image Compression" which actually uses tenorflow v2.x
+
 #### Full Resolution Image Compression with Recurrent Neural Networks
 
 ### Image Compression with Neural Networks
