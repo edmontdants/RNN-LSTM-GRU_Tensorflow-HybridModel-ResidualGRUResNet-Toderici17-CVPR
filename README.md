@@ -93,8 +93,10 @@ To generate these metrics on your images you can run:
 
 ## Complete Credits for
 ([google tensorflow-tensorflow](https://github.com/tensorflow/tensorflow)).
+([google tensorflow-compression](https://github.com/tensorflow/compression)).
 ([google tensorflow-models](https://github.com/tensorflow/models)).
-([NickJohnston-google](https://github.com/nmjohn)).
+([NickJohnston-google Research](https://github.com/nmjohn)).
+([George Toderici-google Research](https://github.com/gtoderici))
 
 ## FAQ
 
