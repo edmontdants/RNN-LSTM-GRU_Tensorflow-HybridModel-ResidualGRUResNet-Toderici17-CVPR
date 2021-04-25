@@ -92,8 +92,8 @@ To generate these metrics on your images you can run:
 --compared_image=/tmp/decoded/image_15.png`
 
 ## Complete Credits for
-([NickJohnston-google](https://github.com/tesorflow/tensorflow)).
-([NickJohnston-google](https://github.com/tesorflow/models)).
+([google tensorflow-tensorflow](https://github.com/tesorflow/tensorflow)).
+([google tensorflow-models](https://github.com/tesorflow/models)).
 ([NickJohnston-google](https://github.com/nmjohn)).
 
 ## FAQ
