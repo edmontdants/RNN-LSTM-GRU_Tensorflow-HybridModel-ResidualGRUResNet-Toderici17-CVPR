@@ -91,7 +91,7 @@ To generate these metrics on your images you can run:
 `python msssim.py --original_image=/path/to/your/image.png
 --compared_image=/tmp/decoded/image_15.png`
 
-## Complete Credits for
+## Original Repo and Full Credits for
 [google tensorflow-tensorflow](https://github.com/tensorflow/tensorflow).
 [google tensorflow-compression](https://github.com/tensorflow/compression).
 [google tensorflow-models](https://github.com/tensorflow/models).
