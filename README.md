@@ -6,7 +6,7 @@
 ## RNN LSTM/GRU - Tensorflow Hybrid Model Residual-GRU & ResNet - Toderici2017-CVPR
 # end-to-end learned based High Image Compression ratio implementation for paper Full-Resolution Lossy Image Compression CVPR17
 
-## [Check my repo here for the Pytorch Version with Deployed Colab version](https://github.com/edmontdants/RNN-LSTM-GRU_Tensorflow-Hybrid-Model-Residual-GRU-ResNet-Toderici2017-CVPR)
+## [Check my repo here for the Pytorch Version with Deployed Colab](https://github.com/edmontdants/RNN-LSTM-GRU_Tensorflow-Hybrid-Model-Residual-GRU-ResNet-Toderici2017-CVPR)
 
 <div align="center">
   <img width='600px' src="https://github.com/edmontdants/RNN-LSTM-GRU_Tensorflow-Hybrid-Model-Residual-GRU-ResNet-Toderici2017-CVPR/blob/main/example%20compress.png"><br>
