@@ -56,7 +56,7 @@ def main(_):
     return
 
   if FLAGS.iteration < 0 or FLAGS.iteration > 15:
-    print('\n--iteration must be between 0 and 15 inclusive.\n')
+    print ('\n--iteration must be between 0 and 15 inclusive.\n')
     return
 
   with tf.gfile.FastGFile(FLAGS.input_image) as input_image:
