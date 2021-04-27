@@ -6,6 +6,9 @@
 ## RNN LSTM/GRU - Tensorflow Hybrid Model Residual-GRU & ResNet - Toderici2017-CVPR
 # end-to-end learned based High Image Compression ratio implementation for paper Full-Resolution Lossy Image Compression CVPR17
 
+## Check my repo here for the Pytorch Version with Deployed Colab
+[RNN LSTM Tensorflow Hybrid Model Residual GRU & ResNet Toderici CVPR17](https://github.com/edmontdants/RNN-LSTM-GRU_Tensorflow-Hybrid-Model-Residual-GRU-ResNet-Toderici2017-CVPR)
+
 <div align="center">
   <img width='600px' src="https://github.com/edmontdants/RNN-LSTM-GRU_Tensorflow-Hybrid-Model-Residual-GRU-ResNet-Toderici2017-CVPR/blob/main/example%20compress.png"><br>
   iteration 15 without entropy coding... guess which one is the original and which is the compressed!!!
@@ -17,9 +20,8 @@ decompressing images using an already trained  Residual GRU model as descibed
 in [Full Resolution Image Compression with Recurrent Neural Networks](https://arxiv.org/pdf/1608.05148). Please consult the paper for more details
 on the architecture and compression results.
 
-This code will allow you to perform the lossy compression on an model
-already trained on compression. This code doesn't not currently contain the
-Entropy Coding portions of our paper.
+This code will allow you to perform the lossy compression on an model already trained on compression. This code 
+doesn't currently contain the Entropy Coding portions of our paper.
 
 ## Hardware Requirements:
 
