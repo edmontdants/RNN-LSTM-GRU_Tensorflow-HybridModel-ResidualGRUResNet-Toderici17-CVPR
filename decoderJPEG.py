@@ -94,7 +94,7 @@ def main(_):
       graph_def.ParseFromString(model_file.read())
     _ = tf.import_graph_def(graph_def, name='')
 
-    # For encoding the tensors into PNGs.
+    # For encoding the tensors into JPEGs.
     input_image = tf.placeholder(tf.uint8)
     encoded_image = tf.image.encode_jpeg(input_image)
 
@@ -112,12 +112,12 @@ def main(_):
     for index, result in enumerate(results):
       img = np.uint8(np.clip(result + 0.5, 0, 255))
       img = img.squeeze()
-      png_img = sess.run(encoded_image, feed_dict={input_image: img})
+      jpeg_img = sess.run(encoded_image, feed_dict={input_image: img})
 
       with tf.gfile.FastGFile(os.path.join(FLAGS.output_directory,
                                            'image_{0:02d}.jpeg'.format(index)),
                               'w') as output_image:
-        output_image.write(png_img)
+        output_image.write(jpeg_img)
 
 
 if __name__ == '__main__':
