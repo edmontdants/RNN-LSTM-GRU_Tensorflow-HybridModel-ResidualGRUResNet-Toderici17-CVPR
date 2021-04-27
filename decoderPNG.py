@@ -66,7 +66,7 @@ def main(_):
     tf.gfile.MkDir(FLAGS.output_directory)
 
   if not tf.gfile.Exists(FLAGS.input_codes):
-    print ('\nInput codes not found.\n')
+    print('\nInput codes not found.\n')
     return
 
   with tf.gfile.FastGFile(FLAGS.input_codes, 'rb') as code_file:
@@ -96,7 +96,7 @@ def main(_):
 
     # For encoding the tensors into PNGs.
     input_image = tf.placeholder(tf.uint8)
-    encoded_image = tf.image.encode_jpeg(input_image)
+    encoded_image = tf.image.encode_png(input_image)
 
     input_tensors = [graph.get_tensor_by_name(name) for name in
                      get_input_tensor_names()][0:iteration+1]
@@ -115,7 +115,7 @@ def main(_):
       png_img = sess.run(encoded_image, feed_dict={input_image: img})
 
       with tf.gfile.FastGFile(os.path.join(FLAGS.output_directory,
-                                           'image_{0:02d}.jpeg'.format(index)),
+                                           'image_{0:02d}.png'.format(index)),
                               'w') as output_image:
         output_image.write(png_img)
 
