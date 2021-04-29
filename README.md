@@ -16,8 +16,7 @@ This is a [TensorFlow](http://www.tensorflow.org/) model for compressing and
 decompressing images using an already trained  Residual GRU model as descibed
 in [Full Resolution Image Compression with Recurrent Neural Networks](https://arxiv.org/pdf/1608.05148). Please consult the paper for more details
 on the architecture and compression results.
-
-### [Check the Pytorch version with deployed Colab](https://github.com/edmontdants/pytorch-image-comp-rnn)
+### ***[Check the Pytorch version with deployed Colab]***(https://github.com/edmontdants/pytorch-image-comp-rnn)
 
 This code will allow you to perform the lossy compression on an model already trained on compression. This code 
 doesn't currently contain the Entropy Coding portions of our paper.
