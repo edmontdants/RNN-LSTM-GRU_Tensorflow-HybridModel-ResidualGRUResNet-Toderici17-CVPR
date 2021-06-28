@@ -10,7 +10,7 @@ Original | Residual GRU
 :-------------------------:|:-------------------------:
 ![guess](Assets/example.png) | ![guess](Assets/Results%20Benchmark/example.png/png/example_15.png)
 
-iteration 15 without entropy coding... guess which one is the original and which is the compressed!!!
+iteration 8 without entropy coding... guess which one is the original and which is the compressed!!!
 
 This is a [TensorFlow](http://www.tensorflow.org/) model for compressing and
 decompressing images using an already trained  Residual GRU model as descibed
